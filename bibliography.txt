@@ -1,0 +1,7 @@
+author: Thomas Ho
+title: How to win friends and be awesome
+year: 1928
+
+author: Dory Lessing
+title: Hello there
+year: 1954
